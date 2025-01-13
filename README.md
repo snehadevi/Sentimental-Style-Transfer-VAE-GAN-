@@ -1,1 +1,1 @@
-# Sentimental-Style-Transfer-VAE-GAN-
+# Sentimental-Style-Transfer-VAE-GAN
